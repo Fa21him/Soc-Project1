@@ -39,4 +39,4 @@ A custom rule marks any successful SSH login to the honeypot as **Critical**, ma
 > 💡 **Tip:** avoid giveaway usernames like `siem-red` — common ones (`root`, `admin`, `ubuntu`) make the honeypot more convincing. 🕵️
 
 ---
-📷 Full walkthrough with screenshots: **[screenshots.pdf](screenshots.pdf)** ✨
+📷 Full walkthrough with screenshots: **[soc-project-pdf.pdf](screenshots.pdf)** ✨
