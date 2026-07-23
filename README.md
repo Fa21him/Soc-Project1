@@ -11,6 +11,8 @@ A self-built SOC lab that uses **Wazuh** for log correlation and the **Cowrie** 
 - 💻 **Kali VM** — source of simulated attacks
 - 🌐 All connected on an isolated internal network
 
+  **[Design](design)**
+
 ## ⚙️ What It Covers
 
 **Wazuh** is an open-source SIEM providing threat detection, file integrity monitoring, and alerting — a free alternative to Splunk or QRadar.
@@ -39,4 +41,4 @@ A custom rule marks any successful SSH login to the honeypot as **Critical**, ma
 > 💡 **Tip:** avoid giveaway usernames like `siem-red` — common ones (`root`, `admin`, `ubuntu`) make the honeypot more convincing. 🕵️
 
 ---
-📷 Full walkthrough with screenshots: **[soc-project-pdf.pdf](screenshots.pdf)** ✨
+📷 Full walkthrough with project **[soc-project-one](soc-project-pdf)** ✨
