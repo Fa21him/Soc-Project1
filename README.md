@@ -2,7 +2,7 @@
 
 A self-built SOC lab that uses **Wazuh** for log correlation and the **Cowrie** SSH honeypot to capture and alert on simulated attacker activity — all inside an isolated internal network.
 
-📷 **[View all screenshots (PDF)](screenshots.pdf)**
+📷 **[View all screenshots (PDF)](media)**
 
 ## 🏗️ Lab Architecture
 
