@@ -11,7 +11,7 @@ A self-built SOC lab that uses **Wazuh** for log correlation and the **Cowrie** 
 - 💻 **Kali VM** — source of simulated attacks
 - 🌐 All connected on an isolated internal network
 
-  ![image alt]()
+  ![image alt](https://github.com/Fa21him/Soc-Project1/blob/main/Screenshot%202026-07-24%20043942.png?raw=true)
 
 ## ⚙️ What It Covers
 
